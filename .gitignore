@@ -1,0 +1,10 @@
+__pycache__
+.streamlit
+.medical_app
+extract/dica33 doctors
+extract/dica33 posts
+extract/medicitalia doctors
+extract/medicitalia posts
+dashboard/mongodb
+dashboard/chromadb
+transform/output data
