@@ -55,5 +55,8 @@ Instructions for running the Streamlit application can be found in the `README.m
 ## 📈 Conclusions
 **RAG Medical Chatbot** demonstrates the power of integrating Query Expansion, Reranking, and Retrieval-Augmented Generation (RAG) to enhance medical diagnosis and treatment suggestions. Our approach not only improves the accuracy of retrieved information but also strengthens the clarity and trustworthiness of generated responses. By separating the retrieval and generative components, we reduce bias and enhance the overall quality of decision-making, providing a more reliable and user-friendly medical AI system.
 
+## ⚖ Ethical Considerations
+**RAG Medical Chatbot** is designed to support, not replace, professional medical advice. Users should verify the chatbot's recommendations with authorised medical professionals, as the limitations of artificial intelligence may affect diagnostic accuracy. **⚠️ It is also recommended that this is only a demo for illustrative and educational purposes**. 
+
 ## 🙏 Acknowledgments
 We would like to express our sincere gratitude to the creators of the Italian medical forums and encyclopedias used in this project, the developers of the Python libraries and tools that made this system possible, and our dedicated research team — *Antonio Romano, Giuseppe Riccio, Gian Marco Orlando, Diego Russo, Marco Postiglione, and Vincenzo Moscato* — for their invaluable contributions and efforts in bringing **RAG Medical Chatbot** to life.
