@@ -1,4 +1,7 @@
 # 🩺 An *AI-Driven Medical Chatbot* Utilizing *Retrieval-Augmented Generation* for Improved Diagnostics and Patient Interaction
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+
 Welcome to the repository for **RAG Medical Chatbot**, an innovative system designed to revolutionize medical diagnosis and treatment recommendations by integrating Retrieval-Augmented Generation (RAG) with advanced AI techniques, combining both retrieval systems and generative models for enhanced accuracy and user experience.
 
 ## 🎥 Demo (or GIF)
@@ -60,3 +63,14 @@ Instructions for running the Streamlit application can be found in the `README.m
 
 ## 🙏 Acknowledgments
 We would like to express our sincere gratitude to the creators of the Italian medical forums and encyclopedias used in this project, the developers of the Python libraries and tools that made this system possible, and our dedicated research team — *Antonio Romano, Giuseppe Riccio, Gian Marco Orlando, Diego Russo, Marco Postiglione, and Vincenzo Moscato* — for their invaluable contributions and efforts in bringing **RAG Medical Chatbot** to life.
+
+## 📜 License
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
