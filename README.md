@@ -1,6 +1,10 @@
 # 🩺 An *AI-Driven Medical Chatbot* Utilizing *Retrieval-Augmented Generation* for Improved Diagnostics and Patient Interaction
-[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
+<div align="center">
+    <a href="LICENSE" target="_blank"><img alt="License"
+        src="https://img.shields.io/badge/license-cc_by_nc_4.0-gray?style=for-the-badge&logo=creativecommons&logoColor=white&logoSize=auto&color=green"/></a>
+</div>
+<hr>
 
 Welcome to the repository for **RAG Medical Chatbot**, an innovative system designed to revolutionize medical diagnosis and treatment recommendations by integrating Retrieval-Augmented Generation (RAG) with advanced AI techniques, combining both retrieval systems and generative models for enhanced accuracy and user experience.
 
